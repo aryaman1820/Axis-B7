@@ -1,2 +1,3 @@
-Hello, this is day 1 of Axis Bank Training.
+This is day 2 of Axis Bank Training.
 We are learning the basics of GIT repository.
+We are learning to store data in new branch.

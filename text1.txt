@@ -1,0 +1,3 @@
+This is the text to play around with the branching of Git.
+Now the text is being changed and uploaded on Git, a good thing!
+A bit confused as well, will sort it out eventually.

@@ -1,0 +1,2 @@
+Hello, this is day 1 of Axis Bank Training.
+We are learning the basics of GIT repository.
